@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Ambethia</string>
+	<key>ordering</key>
+	<array>
+		<string>0694996C-5B6A-400B-88FA-DF6ED6D943A6</string>
+		<string>D5032442-D33A-4851-BC8D-4CD317480A66</string>
+		<string>EA0C804F-D361-499F-9F7A-76FCC22AC7D3</string>
+	</array>
+	<key>uuid</key>
+	<string>13512B69-CE1D-454D-B27F-AD8BA0B4BCA3</string>
+</dict>
+</plist>
